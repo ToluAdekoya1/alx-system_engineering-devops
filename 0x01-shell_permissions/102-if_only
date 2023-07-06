@@ -1,2 +1,2 @@
 #!/bin/bash
-chown --from=guillaume:staff betty:staff hello
+chown --from=root:staff betty:staff hello
